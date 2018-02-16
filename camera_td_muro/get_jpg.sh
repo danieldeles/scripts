@@ -1,8 +1,8 @@
 #!/bin/bash
 
 
-#URL_CAM="http://10.0.0.247:81/snapshot.jpg?user=admin&password=Tianny19"
-URL_CAM="http://10.0.0.247:81/snapshot.jpg?"
+#URL_CAM="http://10.0.0.247:81/snapshot.jpg?"
+URL_CAM=$(cat /root/scripts/camera_td_muro/url.pwd)
 
 PATH_TMP="/root/scripts/camera_td_muro/tmp"
 
