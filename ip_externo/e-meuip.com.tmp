@@ -65,7 +65,7 @@
 				<li ><a href="contato.php">CONTATO</a></li>
 			</ul>
 			<ul class="nav navbar-nav navbar-right hidden-xs">
-				<li><p class="navbar-text">14.441.718 IP's consultados</p></li>
+				<li><p class="navbar-text">14.695.437 IP's consultados</p></li>
 			</ul>
 		</div><!--/.nav-collapse -->
 	</div><!--/.container-fluid -->
@@ -79,9 +79,9 @@
 				<div class="col-xs-12 col-sm-12 col-md-12">
 					<div id="ip">
 												<div class="titulo">Meu IP - <a href="http://e-minhaconexao.com" class="btn btn-sm btn-danger">Teste sua Velocidade</a></div>
-						<p>186.205.68.90</p>
+						<p>186.205.66.26</p>
 						<div class="titulo">IP Reverso</div>
-						<p>bacd445a.virtua.com.br</p>
+						<p>bacd421a.virtua.com.br</p>
 						<p>+ Informações - <a href="http://e-localizaip.com" class="btn btn-sm btn-success">Localiza IP</a></p>
 						<hr />
 						<br />
@@ -106,7 +106,7 @@
 					<div id="historico">
 						<h1>Histórico de Acessos</h1>
 												<ul>
-														<li>04/02/2018 - 15:54 | 186.205.68.90</li>
+														<li>16/02/2018 - 09:49 | 186.205.66.26</li>
 													</ul>
 					</div>
 				</div>
@@ -123,12 +123,12 @@
 					<div id="tags">
 						<h1>Tag's</h1>
 						<ul>
-							<li>meu ip e</li>
-							<li>como obter ip</li>
-							<li>como descobrir o meu ip</li>
-							<li>descobrir endereço de ip</li>
-							<li>como descobrir o ip de outro pc</li>
-							<li>como descobrir o id do computador</li>
+							<li>como ver seu ip</li>
+							<li>endereço meu ip</li>
+							<li>o que é um endereço ip</li>
+							<li>meu local ip</li>
+							<li>de quem é o ip</li>
+							<li>como descobrir o ip do meu computador</li>
 						</ul>
 					</div>
 				</div>
